@@ -1,2 +1,8 @@
 # Energy-Operations-Analytics-Hydraulic-Fracturing-Case-Study
 This project involved ingesting over 8 million records and structuring raw disclosure data in MySQL, creating SQL views for efficient analysis, and building interactive Power BI dashboards to explore fracturing activity, resource consumption, and well performance patterns.
+
+Tools: MySQL, Power BI, SQL
+
+This project analyses hydraulic fracturing disclosure data to understand operational activity, resource consumption, and industry patterns across wells, operators, and geographic regions. The workflow involved ingesting and cleaning large datasets using MySQL, creating optimized database views for analysis, and building an interactive Power BI dashboard to explore trends in well activity, water usage, and chemical composition. The dashboards provide insights into fracturing job trends, operator performance, water source usage, chemical ingredient distribution, and well depth characteristics across major shale-producing states. This analysis helps identify operational patterns, benchmark operator activity, and highlight resource usage trends that can support environmental monitoring and operational decisions.
+
+Key components of the project: Processed and structured large hydraulic fracturing disclosure datasets using MySQL Created optimized SQL views to improve analytical querying and data modelling Built an interactive Power BI dashboard analyzing over 150K fracturing jobs Analyzed trends in well activity, operator performance, and geographic distribution Evaluated water usage, chemical ingredient composition, and fluid sourcing patterns Generated insights on resource consumption, operator activity, and well performance
